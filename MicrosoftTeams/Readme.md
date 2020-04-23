@@ -19,10 +19,14 @@ Once you provide the credentials, you will able to see the tenant information li
 
 ![O365 Tenant](https://flexmind.co/wp-content/uploads/2020/02/image-12.png "Tenant information")
 
-4. Run the command line to find the GroupId of the team adding bulk users:
+4. Run the command line to find and copy the GroupId of the team adding bulk users:
   > get-team
 
-5. Please refer to the instructions and the screenshot below to make a .csv file. Save the csv file as Adduser. You can save this file whatever name you like.
+5. Please refer to the instructions and the example below to create a .csv file:
+   ```Name
+   name.name@domain.com
+   name2.name2@domain.com
+   ```
 
 ###TBD: How to create bulk teams in Microsoft Teams?
 [To be continued](https://www.jijitechnologies.com/blogs/create-teams-microsoft-teams-powershell)
