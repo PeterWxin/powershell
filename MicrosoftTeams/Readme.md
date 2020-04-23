@@ -4,7 +4,7 @@ Please refer to [PowerShell Gallery](https://www.powershellgallery.com/packages/
 1. Run the command line:
 > Install-Module -Name MicrosoftTeams
 
-*(Note: it may prompt "NuGet provider is required to continue...", so please input "Y" to install it first.)*
+*Note: it may prompt "NuGet provider is required to continue...", so please input "Y" to install it first.*
 
 ![Teams Module](https://github.com/PeterWxin/powershell/blob/master/MicrosoftTeams/Screenshots/PowerShell_Teams01.png "Install teams module")
 
@@ -16,7 +16,7 @@ Please refer to [PowerShell Gallery](https://www.powershellgallery.com/packages/
 
 ![O365 Credentials](https://flexmind.co/wp-content/uploads/2020/02/image-11.png "name & password")
 
-Once you provide the credentials, you will able to see the tenant information like:
+*Note: once you provide the credentials, you will able to see the tenant information like this:*
 
 ![O365 Tenant](https://flexmind.co/wp-content/uploads/2020/02/image-12.png "Tenant information")
 
