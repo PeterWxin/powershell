@@ -25,10 +25,8 @@ Please refer to [PowerShell Gallery](https://www.powershellgallery.com/packages/
 
 5. Please refer to the instructions below to create a CSV file:
    
-   1) Press **Windows** + **R** keys and input: "notepad",
-   
-   2) Click **OK** to launch Notepad,
-   
+   1) Press **Windows** + **R** keys and input: "notepad",  
+   2) Click **OK** to launch Notepad,  
    3) Here's an the example content of the CSV file:
    
    
