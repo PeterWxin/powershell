@@ -39,6 +39,7 @@ Import-Csv 'd:\email.txt' | % {
 Add-TeamUser -User $_.Name -GroupId <GroupID>
 } 
 ```
+DONE
 
 ---
 ### TBD: How to create bulk teams in Microsoft Teams?
