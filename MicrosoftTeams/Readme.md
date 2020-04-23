@@ -13,9 +13,13 @@ Please refer to [PowerShell Gallery](https://www.powershellgallery.com/packages/
 3. Run the command line and enter Office 365 credentials:
   > Connect-MicrosoftTeams
 
-![O365 Credentials](https://flexmind.co/wp-content/uploads/2020/02/image-11.png "name_password")
+![O365 Credentials](https://flexmind.co/wp-content/uploads/2020/02/image-11.png "name & password")
 
-4. TBD
+4. Once you provide the credentials, you will able to see the tenant information like:
 
-### How to create bulk teams in Microsoft Teams?
+![O365 Tenant](https://flexmind.co/wp-content/uploads/2020/02/image-12.png "Tenant information")
+
+5. TBD
+
+###TBD: How to create bulk teams in Microsoft Teams?
 [To be continued](https://www.jijitechnologies.com/blogs/create-teams-microsoft-teams-powershell)
