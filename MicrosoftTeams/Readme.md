@@ -31,15 +31,15 @@ Once you provide the credentials, you will able to see the tenant information li
   name.name@domain.com
   name2.name2@domain.com
   ```
-  4) Save the file as 
+  4) Save the file as "addusers.csv" to a folder on the dard drive disk, like: D:\temp.
 
 6. Run this script:
 ```
-Import-Csv 'd:\email.txt' | % { 
+Import-Csv 'D:\temp\addusers.txt' | % { 
 Add-TeamUser -User $_.Name -GroupId <GroupID>
 } 
 ```
-DONE
+ALL DONE
 
 ---
 ### TBD: How to create bulk teams in Microsoft Teams?
