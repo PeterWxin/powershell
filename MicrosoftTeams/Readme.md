@@ -27,9 +27,9 @@ Once you provide the credentials, you will able to see the tenant information li
   2) Click **OK** to launch Notepad
   3) Here's an the example content of the CSV file
   
-  `Name
-  name.name@domain.com
-  name2.name2@domain.com`
+`Name
+name.name@domain.com
+name2.name2@domain.com`
 
 ---
 ### TBD: How to create bulk teams in Microsoft Teams?
