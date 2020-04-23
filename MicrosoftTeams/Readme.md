@@ -35,7 +35,7 @@ Once you provide the credentials, you will able to see the tenant information li
 
 6. Run this script:
 ```
-Import-Csv 'D:\temp\addusers.txt' | % { 
+Import-Csv 'D:\temp\addusers.csv' | % { 
 Add-TeamUser -User $_.Name -GroupId <GroupID>
 } 
 ```
