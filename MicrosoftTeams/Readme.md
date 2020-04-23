@@ -5,8 +5,13 @@ Please refer to [PowerShell Gallery](https://www.powershellgallery.com/packages/
 
 (Note: it may prompt "NuGet provider is required to continue...", so please input "Y" to install it first.)
 
-2. Run 'Import-Module MicrosoftTeams'
-3. TBD
+2. Run the command line:
+  > Import-Module MicrosoftTeams
+  
+3. Run the command line:
+  > Connect-MicrosoftTeams and enter Office 365 credentials.
+  
+4. TBD
 
 ### How to create bulk teams in Microsoft Teams?
 [To be continued](https://www.jijitechnologies.com/blogs/create-teams-microsoft-teams-powershell)
