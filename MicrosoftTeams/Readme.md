@@ -23,15 +23,15 @@ Once you provide the credentials, you will able to see the tenant information li
   > get-team
 
 5. Please refer to the instructions below to create a CSV file:
-  1) Press **Windows** + **R** keys and input: "notepad"
-  2) Click **OK** to launch Notepad
-  3) Here's an the example content of the CSV file
+  (1) Press **Windows** + **R** keys and input: "notepad"
+  (2) Click **OK** to launch Notepad
+  (3) Here's an the example content of the CSV file
   ```
   Name
   name.name@domain.com
   name2.name2@domain.com
   ```
-  4) Save the file as "addusers.csv" to a folder on the dard drive disk, like: D:\temp.
+  (4) Save the file as "addusers.csv" to a folder on the dard drive disk, like: D:\temp.
 
 6. Run this script:
 ```
