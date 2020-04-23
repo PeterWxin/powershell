@@ -8,7 +8,7 @@ Please refer to [PowerShell Gallery](https://www.powershellgallery.com/packages/
 ![Teams Module](https://github.com/PeterWxin/powershell/blob/master/MicrosoftTeams/Screenshots/PowerShell_Teams01.png "Install teams module")
 
 2. Run the command line:
-  > Import-Module MicrosoftTeams
+> Import-Module MicrosoftTeams
   
 3. Run the command line and enter Office 365 credentials:
   > Connect-MicrosoftTeams
