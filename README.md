@@ -7,6 +7,9 @@ First of all, please make usre the current user has Administrator privileges on 
   
 ![PowerShell on Windows 10](https://github.com/PeterWxin/powershell/blob/master/Screenshots/PowerShell-01.png "Launch PowerShell")
 
-#### [How do I add bulk users in Microsoft Teams?](https://github.com/PeterWxin/powershell/blob/master/MicrosoftTeams/Readme.md#how-do-i-add-bulk-users-in-microsoft-teams)
 
+----
+#### [How to I add bulk users in Microsoft Teams?](https://github.com/PeterWxin/powershell/blob/master/MicrosoftTeams/Readme.md#how-do-i-add-bulk-users-in-microsoft-teams)
+
+### [How to create bulk teams in Microsoft Teams?](https://github.com/PeterWxin/powershell/blob/master/MicrosoftTeams/Readme.md#how-to-create-bulk-teams-in-microsoft-teams)
 
