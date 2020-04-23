@@ -3,7 +3,7 @@ Please refer to [PowerShell Gallery](https://www.powershellgallery.com/packages/
 1. Run the command line:
   > Install-Module -Name MicrosoftTeams
 
-*(Note: it may prompt "NuGet provider is required to continue...", so please input "Y" to install it first.)
+*(Note: it may prompt "NuGet provider is required to continue...", so please input "Y" to install it first.)*
 
 ![Teams Module](https://github.com/PeterWxin/powershell/blob/master/MicrosoftTeams/Screenshots/PowerShell_Teams01.png "Install teams module")
 
