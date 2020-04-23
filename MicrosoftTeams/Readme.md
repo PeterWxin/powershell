@@ -19,7 +19,7 @@ Please refer to [PowerShell Gallery](https://www.powershellgallery.com/packages/
 
 ![O365 Tenant](https://flexmind.co/wp-content/uploads/2020/02/image-12.png "Tenant information")
 
-5. TBD
+5. Prepare a CSV file, After connecting to MS team, now we will prepare our csv file. Refer below screen shot to make a csv file. Save the csv file as Adduser. You can save this file whatever name you like.
 
 ###TBD: How to create bulk teams in Microsoft Teams?
 [To be continued](https://www.jijitechnologies.com/blogs/create-teams-microsoft-teams-powershell)
