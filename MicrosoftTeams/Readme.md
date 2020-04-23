@@ -1,5 +1,5 @@
 ### How to add bulk users in Microsoft Teams?
-Please refer to [PowerShell Gallery](https://www.powershellgallery.com/packages/MicrosoftTeams/) and follow the instructions below to install the latest PowerShell MicrosoftTeams Cmdlets module:
+Please refer to [PowerShell Gallery](https://www.powershellgallery.com/packages/MicrosoftTeams/) and follow the instructions below to install the latest MicrosoftTeams Cmdlets module:
 
 1. Run the command line:
 > Install-Module -Name MicrosoftTeams
@@ -28,8 +28,7 @@ Please refer to [PowerShell Gallery](https://www.powershellgallery.com/packages/
    1) Press **Windows** + **R** keys and input: "notepad",  
    2) Click **OK** to launch Notepad,  
    3) Here's an the example content of the CSV file:
-   
-   
+      
    ```
    Name
    name.name@domain.com
