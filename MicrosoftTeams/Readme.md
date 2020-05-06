@@ -46,6 +46,8 @@ Add-TeamUser -User $_.Name -GroupId <GroupID>
 
 ALL DONE.
 
+Thanks to [Rakesh Pandey](https://flexmind.co/blog/how-to-add-bulk-users-from-csv-file-to-ms-teams-using-powershell/) and [patrick138](https://gist.github.com/patrick138/83ba1745cf162e5e75437ab844fb6783)!
+
 ---
 ### TBD: How to create bulk teams in Microsoft Teams?
 [To be continued](https://www.jijitechnologies.com/blogs/create-teams-microsoft-teams-powershell)
