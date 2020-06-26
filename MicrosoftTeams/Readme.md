@@ -13,6 +13,7 @@ Please refer to [PowerShell Gallery](https://www.powershellgallery.com/packages/
 
 3. Run the command line and enter Office 365 credentials:
 > $credentials=Get-Credential
+
 ![O365 Credentials](https://github.com/PeterWxin/powershell/blob/master/MicrosoftTeams/Screenshots/PowerShell_Teams04.png)
 
 > Connect-MicrosoftTeams -Credential $credentials
