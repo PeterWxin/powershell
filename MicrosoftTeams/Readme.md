@@ -12,7 +12,10 @@ Please refer to [PowerShell Gallery](https://www.powershellgallery.com/packages/
 > Import-Module MicrosoftTeams
 
 3. Run the command line and enter Office 365 credentials:
-> Connect-MicrosoftTeams
+> $credentials=Get-Credential
+![O365 Credentials](https://github.com/PeterWxin/powershell/blob/master/MicrosoftTeams/Screenshots/PowerShell_Teams04.png)
+
+> Connect-MicrosoftTeams -Credential $credentials
 
 ![O365 Credentials](https://flexmind.co/wp-content/uploads/2020/02/image-11.png)
 
